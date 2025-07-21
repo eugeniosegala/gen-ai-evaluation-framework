@@ -1,4 +1,4 @@
-# gen-ai-evaluation-framework
+# Gen AI Evaluation Framework
 
 A framework to evaluate the feasibility of your Gen AI application.
 
