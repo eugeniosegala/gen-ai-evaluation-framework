@@ -8,3 +8,4 @@ A framework to evaluate the feasibility of your Gen AI application.
 
 - [ ] Add links to help with suggestions
 - [ ] Add more relevant boxes
+- [ ] Add more charts for various steps (pre-analysis, development etc...)
