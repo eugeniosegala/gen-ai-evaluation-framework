@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="65fnrEP23DjQhTOUDlts">
-    <mxGraphModel dx="79" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -381,22 +381,22 @@
           <mxGeometry x="4460" y="841" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1833" width="134.11" height="30" as="geometry" />
+          <mxGeometry x="2560" y="1843" width="134.11" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-96" value="Important aspect to keep in mind during evaluation. May impact implementation but not feasibility." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2147.1099999999997" y="1833" width="522.89" height="30" as="geometry" />
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-96" value="Important suggestions to keep in mind during evaluation. May impact implementation but not feasibility." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2697.11" y="1843" width="552.89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1740" width="134.11" height="30" as="geometry" />
+          <mxGeometry x="2560" y="1750" width="134.11" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1785" width="134.11" height="30" as="geometry" />
+          <mxGeometry x="2560" y="1795" width="134.11" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-99" value="Core decision-making flow. Continue unless a stop or flag condition is encountered." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2145.31" y="1785" width="453.61" height="30" as="geometry" />
+          <mxGeometry x="2695.31" y="1795" width="453.61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-100" value="&lt;div&gt;Important aspect to keep in mind during evaluation. May impact implementation or feasibility.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2147.11" y="1745" width="500" height="20" as="geometry" />
+          <mxGeometry x="2697.11" y="1755" width="500" height="20" as="geometry" />
         </mxCell>
         <UserObject label="https://www.linkedin.com/in/eugeniosegala/" link="https://www.linkedin.com/in/eugeniosegala/" id="oRVvXvp7-FDV5VBW4UGn-101">
           <mxCell style="text;whiteSpace=wrap;align=center;opacity=50;" parent="1" vertex="1">
@@ -416,18 +416,18 @@
           <mxGeometry x="1875" y="647" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-106" value="Legend:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=20;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1690" width="180" height="35" as="geometry" />
+          <mxGeometry x="2560" y="1700" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-107" value="Rules:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=20;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="1695" width="180" height="35" as="geometry" />
+          <mxGeometry x="2010" y="1695" width="180" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-108" value="&lt;div&gt;-&amp;nbsp;Continue along the core decision path (blue boxes) unless a &quot;YES&quot; answer in the danger zone (orange boxes) triggers a redirection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;- If there are two or more “YES” responses within or across the danger zone, the use case should be dropped.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Any “NO” response within or between danger zone steps will return the use case to the &quot;safe area&quot; for continued evaluation.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="1735" width="500" height="155" as="geometry" />
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-108" value="&lt;div&gt;-&amp;nbsp;Continue along the core decision path (blue boxes) of the &quot;safe area&quot; unless a &quot;YES&quot; answer in the danger zone (orange area/boxes) triggers a redirection.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;-&amp;nbsp;Any negative response to any of the orange boxes questions (within the danger zone) will return the you to the &quot;safe area&quot; for continued evaluation (proceed between each &quot;&#39;next&quot;).&lt;br&gt;&lt;/span&gt;&lt;br&gt;- If there are two or more &quot;YES&quot; responses within or across the danger zone, the use case should be considered to be dropped.&lt;/div&gt;&lt;div&gt;&lt;br&gt;- Grey boxes are only suggestions.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="1735" width="500" height="155" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-109" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2740" y="1913" as="sourcePoint" />
-            <mxPoint x="2740" y="1681" as="targetPoint" />
+            <mxPoint x="2520" y="1913" as="sourcePoint" />
+            <mxPoint x="2520" y="1681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="oRVvXvp7-FDV5VBW4UGn-112" edge="1">
