@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="65fnrEP23DjQhTOUDlts">
-    <mxGraphModel dx="-181" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="79" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-69" value="Would relying on human input significantly impact scalability or cost-efficiency?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=5;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-69" value="Would relying on additional human input significantly affect scalability or cost-efficiency (e.g., require extra side-of-desk work from employees)?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="2386" y="841" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-70" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
