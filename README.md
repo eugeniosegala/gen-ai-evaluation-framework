@@ -7,4 +7,4 @@ A framework to evaluate the feasibility of your Gen AI application.
 ## TODOS:
 
 - [ ] Add links to help with suggestions
-- [ ] Add more evaluation charts for various steps (pre-analysis, development etc...)
+- [ ] Add more evaluation charts for different use-cases (training, fine-tuning, development, etc...)
