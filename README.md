@@ -2,7 +2,7 @@
 
 A framework to evaluate the feasibility of your Gen AI application.
 
-![gen-ai-evaluation-framework-v2.png](gen-ai-evaluation-framework-v2.png)
+![gen-ai-evaluation-framework-v2.png](charts/gen-ai-evaluation-framework-v2.png)
 
 ## TODOS:
 
