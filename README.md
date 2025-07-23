@@ -15,6 +15,14 @@ This framework helps you evaluate Gen AI use cases by asking key questions relat
 
 Whether you're a **product manager**, **engineer**, **designer**, or exploring Gen AI from any angle, this tool is meant to help you make smarter, faster calls on where AI should and shouldn’t be used.
 
+---
+
+## 🛣️ Flows
+
+List of flows available in this repository (read the instructions in each flow for more details on how to use them):
+
+### Fail-fast framework for evaluating Gen AI use-cases
+
 ![gen-ai-evaluation-framework-v2.png](charts/gen-ai-evaluation-framework-v2.png)
 
 ---
