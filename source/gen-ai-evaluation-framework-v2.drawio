@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="65fnrEP23DjQhTOUDlts">
-    <mxGraphModel dx="-181" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="109" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-6" target="oRVvXvp7-FDV5VBW4UGn-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-5" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-4" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-5" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0069" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
@@ -21,7 +21,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-9" target="oRVvXvp7-FDV5VBW4UGn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-8" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-7" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-8" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0197" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -32,7 +32,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-12" target="oRVvXvp7-FDV5VBW4UGn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-11" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-10" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-11" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-10" vertex="1" connectable="0">
           <mxGeometry x="-0.0472" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -40,7 +40,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-17" target="oRVvXvp7-FDV5VBW4UGn-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-16" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-15" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-16" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0452" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -48,7 +48,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-22" target="oRVvXvp7-FDV5VBW4UGn-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-21" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-20" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-21" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-20" vertex="1" connectable="0">
           <mxGeometry x="-0.0095" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -56,7 +56,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-27" target="oRVvXvp7-FDV5VBW4UGn-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-26" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-25" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-26" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-25" vertex="1" connectable="0">
           <mxGeometry x="-0.0452" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
@@ -64,7 +64,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-30" target="oRVvXvp7-FDV5VBW4UGn-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-29" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-28" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-29" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-28" vertex="1" connectable="0">
           <mxGeometry x="-0.0452" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -72,12 +72,12 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-34" target="oRVvXvp7-FDV5VBW4UGn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-33" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-32" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-33" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-32" vertex="1" connectable="0">
           <mxGeometry x="-0.1286" y="3" relative="1" as="geometry">
             <mxPoint x="6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-34" value="Does your use case involve well-structured and consistently formatted data?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=7;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-34" value="Does your use case involve mostly well-structured and consistently formatted data?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=7;" parent="1" vertex="1">
           <mxGeometry x="2090" y="1270" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-35" value="The solution can be AI-led, with humans in the loop." style="rounded=0;whiteSpace=wrap;html=1;spacing=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -135,11 +135,11 @@
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3650.043478260871" y="1074" as="sourcePoint" />
-            <mxPoint x="3440" y="921" as="targetPoint" />
+            <mxPoint x="3640.043478260871" y="1074" as="sourcePoint" />
+            <mxPoint x="3430" y="921" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3610" y="1074" />
-              <mxPoint x="3610" y="921" />
+              <mxPoint x="3600" y="1074" />
+              <mxPoint x="3600" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -215,7 +215,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-60" value="Can the AI be replaced with more robust and predictable traditional software?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=5;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-60" value="Can the AI be fully replaced with more robust and predictable traditional software?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="2090" y="1049" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -400,7 +400,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-94" value="Are your AI safeguards inadequate to maintain safety, reliability, or regulatory compliance?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-94" value="Could your AI safeguards be inadequate to maintain safety, reliability, or regulatory compliance?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="4460" y="841" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
@@ -444,7 +444,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-107" value="Rules:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=20;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1698" width="180" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-108" value="&lt;div&gt;- Continue along the core decision path (blue boxes) in the &quot;safe area&quot; unless a &quot;&lt;b&gt;YES&lt;/b&gt;&quot; answer in the danger zone (orange boxes/area) triggers a redirection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Any &quot;&lt;b&gt;NO&lt;/b&gt;&amp;nbsp;answer to a question in the yellow boxes (danger zone) will redirect you back to the &quot;safe area&quot; for continued evaluation. Proceed along the path indicated by each &quot;&lt;b&gt;Next or NO&lt;/b&gt;&quot; arrow.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Grey boxes are suggestions only.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-108" value="&lt;div&gt;- Continue along the core decision path (blue boxes) in the &quot;safe area&quot; unless a &quot;&lt;b&gt;YES&lt;/b&gt;&quot; answer in the danger zone (orange boxes/area) triggers a redirection.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Any &quot;&lt;b&gt;NO&lt;/b&gt;&amp;nbsp;answer to a question in the yellow boxes (danger zone) will redirect you back to the &quot;safe area&quot; for continued evaluation. Proceed along the path indicated by each &quot;&lt;span style=&quot;font-size: 11px; font-weight: 700; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NO or NEXT&lt;/span&gt;&quot; arrow.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Grey boxes are suggestions only.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1737" width="480" height="123" as="geometry" />
         </mxCell>
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-109" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -468,7 +468,7 @@
             <mxPoint x="2179.09" y="1473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-120" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-119" vertex="1" connectable="0">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-120" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="oRVvXvp7-FDV5VBW4UGn-119" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -531,7 +531,7 @@
             <mxPoint x="2476.1" y="1472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-84" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-83" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-84" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-83" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -542,7 +542,7 @@
             <mxPoint x="2770.62" y="1472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-86" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-85" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-86" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-85" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -553,7 +553,7 @@
             <mxPoint x="3062.23" y="1473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-88" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-87" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-88" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-87" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -567,7 +567,7 @@
             <mxPoint x="3349.73" y="1473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-90" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-89" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-90" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-89" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -581,7 +581,7 @@
             <mxPoint x="3649.73" y="1474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-92" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-91" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-92" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-91" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -592,7 +592,7 @@
             <mxPoint x="3951" y="1473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-94" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-93" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-94" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-93" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -600,7 +600,7 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-22" value="Will the AI require regular updates or monitoring?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3560" y="1270" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-27" value="Are you planning to process PII (Personally Identifiable Information) or are you concerns with data location?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-27" value="Are you planning to process PII (Personally Identifiable Information), and are you concerned about data location?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3860.0000000000005" y="1270" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JpHp0RKdDI5TbJRuIx_U-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -609,7 +609,7 @@
             <mxPoint x="4249.73" y="1472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-96" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-95" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-96" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-95" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -623,7 +623,7 @@
             <mxPoint x="4550.73" y="1471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-98" value="Consider before &quot;Next or NO&quot;..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-97" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-98" value="Consider before next blue box" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-97" vertex="1" connectable="0">
           <mxGeometry x="-0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -631,12 +631,12 @@
         <mxCell id="JpHp0RKdDI5TbJRuIx_U-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-31" target="JpHp0RKdDI5TbJRuIx_U-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JpHp0RKdDI5TbJRuIx_U-106" value="Next or NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-105" vertex="1" connectable="0">
+        <mxCell id="JpHp0RKdDI5TbJRuIx_U-106" value="NO or NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="JpHp0RKdDI5TbJRuIx_U-105" vertex="1" connectable="0">
           <mxGeometry x="-0.2028" y="-4" relative="1" as="geometry">
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-31" value="Are deterministic outputs critical for all AI outputs?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-31" value="Are deterministic outputs (i.e., the same input always producing the same output) critical for all AI results?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="4460" y="1270" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JpHp0RKdDI5TbJRuIx_U-99" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0" parent="1" vertex="1">
@@ -657,10 +657,10 @@
         <mxCell id="oRVvXvp7-FDV5VBW4UGn-64" value="Expect to continuously refine, retrain, or extend the AI system as requirements evolve." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3560.0000000000005" y="1049" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-63" value="You may need to fine-tune or customise the AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-63" value="You may need to fine-tune the AI or heavily engineer the solution around it." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3260.0000000000005" y="1049" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oRVvXvp7-FDV5VBW4UGn-73" value="Consider implementing robust guardrails to mitigate risk." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=8;" parent="1" vertex="1">
+        <mxCell id="oRVvXvp7-FDV5VBW4UGn-73" value="Consider implementing robust safeguards&amp;nbsp;to mitigate risk." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="4160" y="841" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JpHp0RKdDI5TbJRuIx_U-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oRVvXvp7-FDV5VBW4UGn-69" edge="1">
